@@ -207,7 +207,7 @@ void draw_circle(void)
       break;
   }
 
-  switch(place1){
+  switch(place2){
     case 1:
       glTranslated(-5.0 , 5.0 , 0.0); // left-up
       target_point();
